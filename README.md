@@ -17,6 +17,8 @@ Figure 2. Proposed methodology
 
 Figure 3. The graph shows the correlation between variables in the table “previous_application”
 
+...
+
 # Result
 
 ![image](https://github.com/HiIAmHuong/Analyzing-Data-and-Modeling-for-Loan-Risk-Assessment/assets/124865073/a915361b-401b-4bf6-b009-9f70189478d5)
