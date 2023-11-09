@@ -12,7 +12,7 @@ Figure 1. ERD
 
 Figure 2. Proposed methodology
 
-# 
+# Result
 
 ![image](https://github.com/HiIAmHuong/Analyzing-Data-and-Modeling-for-Loan-Risk-Assessment/assets/124865073/a915361b-401b-4bf6-b009-9f70189478d5)
 
